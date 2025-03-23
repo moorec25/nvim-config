@@ -23,6 +23,7 @@ local options = {
     ignorecase = true,
     smartcase = true,
     fileencoding = "utf-8",
+    --termguicolors = true,
 
 }
 
